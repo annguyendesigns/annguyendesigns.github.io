@@ -1,0 +1,10 @@
+h1{ 
+	background: #FFF url("../images/fun-poster.jpg");
+}
+p{
+	font-family: Proxima Nova, sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	color: #333333;
+	text-align: center;
+} 
